@@ -2,7 +2,7 @@
     "name": "pc/mvc_php_template",
     "autoload": {
         "psr-4": {
-            "Pc\\MvcPhpTemplate\\": "src/"
+            "App\\": "app/"
         }
     },
     "authors": [
