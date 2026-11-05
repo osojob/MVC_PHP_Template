@@ -1,0 +1,15 @@
+{
+    "name": "pc/mvc_php_template",
+    "autoload": {
+        "psr-4": {
+            "Pc\\MvcPhpTemplate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Odei",
+            "email": "osojo@ikaslea.birt.eus"
+        }
+    ],
+    "require": {}
+}
